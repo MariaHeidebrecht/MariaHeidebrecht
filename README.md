@@ -1,6 +1,12 @@
-<h3 align="center">
+<p align="center">
+  <a href="https://github.com/MariaHeidebrecht">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb9ca&fontSize=54&height=90&width=1018&text=Maria%20%7C%20Anwendungsentwicklung" alt="Maria | Anwendungsentwicklung" />
+  </a>
+</p>
+
+<h4 align="center">
   Hier entstehen kleine Projekte, mit denen ich meine Fähigkeiten trainiere, weiterentwickle und verbessere.
-</h3>
+</h4>
 
 <p align="center">
   Aktuell beschäftige ich mich mit Frontend-Entwicklung, Webdesign und verschiedenen Technologien.
@@ -8,9 +14,9 @@
 
 ### Über mich
 
- &nbsp;**Ich arbeite aktuell an:** <br>**ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse. <br> [ME/CFS Open Research Lab](https://github.com/MElab)**  
- &nbsp;**Ich lerne aktuell:** <br>JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung
- &nbsp;**Fun fact:** <br>Ich arbeite am besten mit einer Katze auf dem Schoß.
+**Ich arbeite aktuell an:**<br>ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.<br>[ME/CFS Open Research Lab](https://github.com/MElab)<br>  
+**Ich lerne aktuell:**<br>JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung<br>
+**Fun fact:**<br>Ich arbeite am besten mit einer Katze auf dem Schoß.<br>
 
 ### Technologien & Tools
 

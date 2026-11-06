@@ -16,12 +16,12 @@
 <br>
 
 ### Über mich
-
+<!-- LINIE--------------------------------------------------------------------------------------------------------------------- -->
 <p>
   <a href="https://github.com/MariaHeidebrecht">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
 </p>
-
+<!-- -------------------------------------------------------------------------------------------------------------------------- -->
 <p>
   <strong>Ich arbeite aktuell an:</strong>
   <br><br>
@@ -29,12 +29,12 @@
   <br>
   <a href="https://github.com/MElab">ME/CFS Open Research Lab</a>
 </p>
-
+<!-- LINIE--------------------------------------------------------------------------------------------------------------------- -->
 <p>
   <a href="https://github.com/MariaHeidebrecht">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=1" width="100%" />
 </p>
-
+<!-- -------------------------------------------------------------------------------------------------------------------------- -->
 <p>
   <strong>Ich lerne aktuell:</strong>
   <br><br>
@@ -45,21 +45,20 @@
   <img src="https://img.shields.io/badge/Datenvisualisierung-fff0f4?style=flat-square&logo=chartdotjs&logoColor=bd718d" alt="Datenvisualisierung" />
   <img src="https://img.shields.io/badge/Komponentenbasierte_Webentwicklung-fff0f4?style=flat-square&logo=vue.js&logoColor=bd718d" alt="Komponentenbasierte Webentwicklung" />
 </p>
-
+<!-- LINIE--------------------------------------------------------------------------------------------------------------------- -->
 <p>
   <a href="https://github.com/MariaHeidebrecht">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=1" width="100%" />
 </p>
-
+<!-- -------------------------------------------------------------------------------------------------------------------------- -->
 <p>
   <strong>Fun fact:</strong>
   <br><br>
   Eine Katze gehört zur Entwicklungsumgebung.
 </p>
-
 <br>
 <br>
-
+<!-- -------------------------------------------------------------------------------------------------------------------------- -->
 <h2 align="center">Technologien &amp; Tools</h2>
 
 <p align="center">
@@ -87,20 +86,12 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
 <br>
-
-
+<!-- -------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">GitHub-Statistiken</h2>
 
 <p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaHeidebrecht&layout=compact&theme=default&title_color=ffb9ca&icon_color=ffb9ca&hide_border=true&bg_color=00000000&langs_count=8" alt="Meistgenutzte Programmiersprachen" />
-</p>
-
-<br>
-
-<p align="center">
-  <i>Von <a href="https://github.com/MariaHeidebrecht">MariaHeidebrecht</a></i>
 </p>
 

@@ -1,24 +1,65 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=3&section=header" width="100%" alt="" />
+</p>
+
 <p align="center">
   <a href="https://github.com/MariaHeidebrecht">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb9ca&fontSize=54&height=90&width=1018&text=Maria%20%7C%20Anwendungsentwicklung" alt="Maria | Anwendungsentwicklung" />
   </a>
 </p>
 
-<h4 align="center">
+<h3 align="center">
   Hier entstehen kleine Projekte, mit denen ich meine Fähigkeiten trainiere, weiterentwickle und verbessere.
-</h4>
+</h3>
 
 <p align="center">
   Aktuell beschäftige ich mich mit Frontend-Entwicklung, Webdesign und verschiedenen Technologien.
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=2&section=header" width="100%" alt="" />
+</p>
+
 ### Über mich
 
-**Ich arbeite aktuell an:**<br>ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.<br>[ME/CFS Open Research Lab](https://github.com/MElab)<br>  
-**Ich lerne aktuell:**<br>JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung<br><br>
-**Fun fact:**<br>Ich arbeite am besten mit einer Katze auf dem Schoß.<br>
+<p>
+  <img src="https://img.shields.io/badge/-%20-fff0f4?style=flat-square&logo=code&logoColor=bd718d" height="20" alt="" />
+  <strong>Ich arbeite aktuell an:</strong>
+  <br>
+  ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.
+  <br>
+  <a href="https://github.com/MElab">ME/CFS Open Research Lab</a>
+</p>
 
-### Technologien & Tools
+<p>
+  <img src="https://img.shields.io/badge/-%20-fff0f4?style=flat-square&logo=book-open&logoColor=bd718d" height="20" alt="" />
+  <strong>Ich lerne aktuell:</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/JavaScript-fff0f4?style=flat-square&logo=javascript&logoColor=bd718d" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-fff0f4?style=flat-square&logo=vuedotjs&logoColor=bd718d" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/REST--APIs-fff0f4?style=flat-square&logo=postman&logoColor=bd718d" alt="REST-APIs" />
+  <img src="https://img.shields.io/badge/Datenmodellierung-fff0f4?style=flat-square&logo=databricks&logoColor=bd718d" alt="Datenmodellierung" />
+  <img src="https://img.shields.io/badge/Datenvisualisierung-fff0f4?style=flat-square&logo=chartdotjs&logoColor=bd718d" alt="Datenvisualisierung" />
+  <img src="https://img.shields.io/badge/Komponentenbasierte_Webentwicklung-fff0f4?style=flat-square&logo=vue.js&logoColor=bd718d" alt="Komponentenbasierte Webentwicklung" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-%20-fff0f4?style=flat-square&logo=cat&logoColor=bd718d" height="20" alt="" />
+  <strong>Fun fact:</strong>
+  <br>
+  Ich arbeite am besten mit einer Katze auf dem Schoß.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=2&section=header" width="100%" alt="" />
+</p>
+
+<h2 align="center">Technologien &amp; Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -46,11 +87,21 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### GitHub-Statistiken
+<br>
 
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=2&section=header" width="100%" alt="" />
+</p>
+
+<h2 align="center">GitHub-Statistiken</h2>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaHeidebrecht&layout=compact&theme=default&title_color=ffb9ca&icon_color=ffb9ca&hide_border=true&bg_color=00000000&langs_count=8" alt="Meistgenutzte Programmiersprachen" />
 </p>
 
----
-<p align="center"><i>Von <a href="https://github.com/MariaHeidebrecht">MariaHeidebrecht</a></i></p>
+<br>
+
+<p align="center">
+  <i>Von <a href="https://github.com/MariaHeidebrecht">MariaHeidebrecht</a></i>
+</p>
+

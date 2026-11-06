@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=3&section=header" width="100%" alt="" />
-</p>
-
 <p align="center">
   <a href="https://github.com/MariaHeidebrecht">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb9ca&fontSize=54&height=90&width=1018&text=Maria%20%7C%20Anwendungsentwicklung" alt="Maria | Anwendungsentwicklung" />
@@ -23,6 +18,7 @@
 ### Über mich
 
 <p>
+  <a href="https://github.com/MariaHeidebrecht">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
 </p>
 
@@ -35,7 +31,8 @@
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
+  <a href="https://github.com/MariaHeidebrecht">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=1" width="100%" />
 </p>
 
 <p>
@@ -50,7 +47,8 @@
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
+  <a href="https://github.com/MariaHeidebrecht">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=1" width="100%" />
 </p>
 
 <p>
@@ -92,13 +90,11 @@
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=2&section=header" width="100%" alt="" />
-</p>
+
 
 <h2 align="center">GitHub-Statistiken</h2>
 
-<p align="center">
+<p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaHeidebrecht&layout=compact&theme=default&title_color=ffb9ca&icon_color=ffb9ca&hide_border=true&bg_color=00000000&langs_count=8" alt="Meistgenutzte Programmiersprachen" />
 </p>
 

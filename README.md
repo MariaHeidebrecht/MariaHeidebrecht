@@ -15,7 +15,7 @@
 ### Über mich
 
 **Ich arbeite aktuell an:**<br>ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.<br>[ME/CFS Open Research Lab](https://github.com/MElab)<br>  
-**Ich lerne aktuell:**<br>JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung<br>
+**Ich lerne aktuell:**<br>JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung<br><br>
 **Fun fact:**<br>Ich arbeite am besten mit einer Katze auf dem Schoß.<br>
 
 ### Technologien & Tools
@@ -48,7 +48,7 @@
 
 ### GitHub-Statistiken
 
-<p align="center">
+<p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaHeidebrecht&layout=compact&theme=default&title_color=ffb9ca&icon_color=ffb9ca&hide_border=true&bg_color=00000000&langs_count=8" alt="Meistgenutzte Programmiersprachen" />
 </p>
 

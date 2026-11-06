@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/MariaHeidebrecht">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb9ca&fontSize=54&height=90&width=1018&text=Maria%20%7C%20Anwendungsentwicklung" alt="Maria | Anwendungsentwicklung" />
@@ -5,16 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Hier%20entstehen%20kleine%20Projekte%2C%20mit%20denen%20ich%20meine%20F%C3%A4higkeiten%20trainiere%2C%20weiterentwickle%20und%20verbessere.;Aktuell%20besch%C3%A4ftige%20ich%20mich%20mit%20Frontend-Entwicklung%2C%20Webdesign%20und%20verschiedenen%20Technologien." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=950&height=65&lines=Hier%20entstehen%20kleine%20Projekte%2C%20mit%20denen%20ich%20meine%20F%C3%A4higkeiten%20trainiere%2C%20weiterentwickle%20und%20verbessere.;Aktuell%20besch%C3%A4ftige%20ich%20mich%20mit%20Frontend-Entwicklung%2C%20Webdesign%20und%20verschiedenen%20Technologien." alt="Animierte Überschriften" />
 </p>
 
-###  About Me
+### Über mich
 
- &nbsp;I'm currently working on **ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.**  
- &nbsp;I'm currently learning **JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung**  
+ &nbsp;Ich arbeite aktuell an **ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse. <br> [ME/CFS Open Research Lab](https://github.com/MElab) **  
+ &nbsp;Ich lerne aktuell **JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung**  
  &nbsp;Fun fact: **Ich arbeite am besten mit einer Katze auf dem Schoß.**
 
-###  Tech Stack
+### Technologien & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -42,11 +43,11 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-###  GitHub Stats
+### GitHub-Statistiken
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaHeidebrecht&layout=compact&theme=default&title_color=ffb9ca&icon_color=ffb9ca&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaHeidebrecht&layout=compact&theme=default&title_color=ffb9ca&icon_color=ffb9ca&hide_border=true&bg_color=00000000&langs_count=8" alt="Meistgenutzte Programmiersprachen" />
 </p>
 
 ---
-<p align="center"><i> From <a href="https://github.com/MariaHeidebrecht">MariaHeidebrecht</a></i></p>
+<p align="center"><i>Von <a href="https://github.com/MariaHeidebrecht">MariaHeidebrecht</a></i></p>

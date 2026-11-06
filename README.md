@@ -18,46 +18,49 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=2&section=header" width="100%" alt="" />
-</p>
+<br>
 
 ### Über mich
 
 <p>
-  <img src="https://img.shields.io/badge/-%20-fff0f4?style=flat-square&logo=code&logoColor=bd718d" height="20" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
+</p>
+
+<p>
   <strong>Ich arbeite aktuell an:</strong>
-  <br>
+  <br><br>
   ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.
   <br>
   <a href="https://github.com/MElab">ME/CFS Open Research Lab</a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-%20-fff0f4?style=flat-square&logo=book-open&logoColor=bd718d" height="20" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
+</p>
+
+<p>
   <strong>Ich lerne aktuell:</strong>
   <br><br>
   <img src="https://img.shields.io/badge/JavaScript-fff0f4?style=flat-square&logo=javascript&logoColor=bd718d" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-fff0f4?style=flat-square&logo=vuedotjs&logoColor=bd718d" alt="Vue.js" />
   <img src="https://img.shields.io/badge/REST--APIs-fff0f4?style=flat-square&logo=postman&logoColor=bd718d" alt="REST-APIs" />
-  <img src="https://img.shields.io/badge/Datenmodellierung-fff0f4?style=flat-square&logo=databricks&logoColor=bd718d" alt="Datenmodellierung" />
+  <img src="https://img.shields.io/badge/Datenmodellierung-fff0f4?style=flat-square&logo=databricks&logoColor=bd718d" alt="Datenmodellierung" /> <br>
   <img src="https://img.shields.io/badge/Datenvisualisierung-fff0f4?style=flat-square&logo=chartdotjs&logoColor=bd718d" alt="Datenvisualisierung" />
   <img src="https://img.shields.io/badge/Komponentenbasierte_Webentwicklung-fff0f4?style=flat-square&logo=vue.js&logoColor=bd718d" alt="Komponentenbasierte Webentwicklung" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-%20-fff0f4?style=flat-square&logo=cat&logoColor=bd718d" height="20" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
+</p>
+
+<p>
   <strong>Fun fact:</strong>
-  <br>
-  Ich arbeite am besten mit einer Katze auf dem Schoß.
+  <br><br>
+  Eine Katze gehört zur Entwicklungsumgebung.
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff0f4,100:ffb9ca&height=2&section=header" width="100%" alt="" />
-</p>
+<br>
 
 <h2 align="center">Technologien &amp; Tools</h2>
 

@@ -17,9 +17,9 @@
 
 ### Über mich
 <!-- LINIE--------------------------------------------------------------------------------------------------------------------- -->
-<p>
+<p align="left">
   <a href="https://github.com/MariaHeidebrecht">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
+  <img  src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=2" width="100%" />
 </p>
 <!-- -------------------------------------------------------------------------------------------------------------------------- -->
 <p>
@@ -30,7 +30,7 @@
   <a href="https://github.com/MElab">ME/CFS Open Research Lab</a>
 </p>
 <!-- LINIE--------------------------------------------------------------------------------------------------------------------- -->
-<p>
+<p align="left">
   <a href="https://github.com/MariaHeidebrecht">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=1" width="100%" />
 </p>
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Komponentenbasierte_Webentwicklung-fff0f4?style=flat-square&logo=vue.js&logoColor=bd718d" alt="Komponentenbasierte Webentwicklung" />
 </p>
 <!-- LINIE--------------------------------------------------------------------------------------------------------------------- -->
-<p>
+<p align="left">
   <a href="https://github.com/MariaHeidebrecht">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb9ca&height=1" width="100%" />
 </p>

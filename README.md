@@ -1,23 +1,20 @@
+<h3 align="center">
+  Hier entstehen kleine Projekte, mit denen ich meine Fähigkeiten trainiere, weiterentwickle und verbessere.
+</h3>
 
 <p align="center">
-  <a href="https://github.com/MariaHeidebrecht">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb9ca&fontSize=54&height=90&width=1018&text=Maria%20%7C%20Anwendungsentwicklung" alt="Maria | Anwendungsentwicklung" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=950&height=65&lines=Hier%20entstehen%20kleine%20Projekte%2C%20mit%20denen%20ich%20meine%20F%C3%A4higkeiten%20trainiere%2C%20weiterentwickle%20und%20verbessere.;Aktuell%20besch%C3%A4ftige%20ich%20mich%20mit%20Frontend-Entwicklung%2C%20Webdesign%20und%20verschiedenen%20Technologien." alt="Animierte Überschriften" />
+  Aktuell beschäftige ich mich mit Frontend-Entwicklung, Webdesign und verschiedenen Technologien.
 </p>
 
 ### Über mich
 
- &nbsp;Ich arbeite aktuell an **ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse. <br> [ME/CFS Open Research Lab](https://github.com/MElab) **  
- &nbsp;Ich lerne aktuell **JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung**  
- &nbsp;Fun fact: **Ich arbeite am besten mit einer Katze auf dem Schoß.**
+ &nbsp;**Ich arbeite aktuell an:** <br>**ME/CFS Open Research Lab: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse. <br> [ME/CFS Open Research Lab](https://github.com/MElab)**  
+ &nbsp;**Ich lerne aktuell:** <br>JavaScript, Vue.js, REST-APIs, Datenmodellierung, Datenvisualisierung und komponentenbasierte Webentwicklung
+ &nbsp;**Fun fact:** <br>Ich arbeite am besten mit einer Katze auf dem Schoß.
 
 ### Technologien & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />

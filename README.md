@@ -25,7 +25,7 @@
 <p>
   <strong>Ich arbeite aktuell an:</strong>
   <br><br>
-  <a href="https://github.com/MElab">ME/CFS Open Research Lab</a>: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.
+  <a href="https://github.com/MariaHeidebrecht/ME-OpenResearchLab">ME/CFS Open Research Lab</a>: eine Plattform zur Sammlung und Aufbereitung internationaler Forschungsergebnisse.
   <br>
   
 </p>
